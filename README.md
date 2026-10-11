@@ -2,7 +2,7 @@
 <div align="center">
 <div align="center">
 
-![Smart Storage Hub – Banner](images/banner.png)
+![Smart Storage Hub – Banner](images/banner-en.png)
 
 # Smart Storage Hub
 
