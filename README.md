@@ -1,70 +1,20 @@
 # Smart Storage Hub
-<div align="center">
-<div align="center">
 
-![Smart Storage Hub – Banner](images/banner-en.png)
+**Farming Simulator 25 · Version 1.0.0**
 
-# Smart Storage Hub
-
-**Mehr Übersicht. Mehr Kontrolle. Weniger Aufwand.**  
-**More overview. More control. Less effort.**
-
-**Farming Simulator 25 · Version 0.9.14.41**
-
-[Deutsch](#deutsch) · [English](#english) · [Download / Releases](https://github.com/Elimods90/FS25_SmartStorageHub/releases)
-
-</div>
-
----
-
-## Deutsch
-
-Smart Storage Hub erweitert die Lagerverwaltung im Landwirtschafts-Simulator 25 um eine moderne, übersichtliche Benutzeroberfläche und praktische Funktionen zur gezielten Ein- und Auslagerung.
-
-Ob Getreidesilo, Palettenlager oder Ballenlager: Mit Smart Storage Hub behältst du deine Bestände im Blick und entscheidest selbst, welche Waren du in welcher Menge entnehmen möchtest.
-
-### Intelligente Siloverwaltung
-
-Alle verfügbaren Fruchtsorten werden mit ihren aktuellen Lagerbeständen und passenden Symbolen übersichtlich dargestellt. Wähle die gewünschte Fruchtsorte aus und starte die Beladung. Optional kannst du eine genaue Literzahl vorgeben. Bleibt das Eingabefeld leer, wird dein Anhänger wie gewohnt befüllt.
-
-Eine zusätzliche Live-Anzeige informiert während des Be- und Entladens über aktuelle Bestände beziehungsweise verbleibende Silokapazität. Farblich gekennzeichnete Werte erleichtern die Orientierung.
-
-![Siloverwaltung mit rechtsbündigen Lagerbeständen](images/silo-overview.png)
-
-### Paletten- und Ballenlager im Überblick
-
-Smart Storage Hub zeigt die eingelagerten Paletten- und Ballenarten mit ihren jeweiligen Stückzahlen. Über die Mengenauswahl bestimmst du, wie viele Objekte ausgelagert werden – **bis zu 25 pro Vorgang**. Die Stückzahlen aktualisieren sich auch bei geöffnetem Auswahlmenü.
-
-![Übersicht über Paletten und Ballen](images/storage-overview.png)
-
-### Komfortable Bedienung aus der Fahrerkabine
-
-Mit einem geeigneten, stehenden Transportfahrzeug kannst du in der Nähe eines Paletten- oder Ballenlagers die Lagerauswahl **direkt aus der Fahrerkabine** öffnen. Aussteigen ist nicht erforderlich.
-
-**Wichtig:** Die ausgewählten Objekte erscheinen am regulären Ausgabepunkt des Lagers. Sie werden **nicht automatisch auf dein Fahrzeug geladen**.
-
-### Weitere Funktionen
-
-- Gezielte Liter-Eingabe oder normale vollständige Befüllung am Silo.
-- Laufende Bestandsanzeige während der Silo-Bedienung.
-- Rechtsbündig ausgerichtete Mengen- und Stückzahlangaben für bessere Lesbarkeit.
-- Objektauswahl und Auslagerung in Schritten von bis zu 25 Stück.
-- Bedienung nahe geeigneter Lager direkt vom Fahrersitz aus.
-- Integration in die vorhandenen LS25-Lagerfunktionen.
-
-### Installation
-
-1. Lade `FS25_SmartStorageHub.zip` aus den [Releases](https://github.com/Elimods90/FS25_SmartStorageHub/releases) herunter, sobald die Version veröffentlicht ist.
-2. Kopiere die **ZIP unverändert** in deinen LS25-Ordner `mods`.
-3. Aktiviere **Smart Storage Hub** beim Laden deines Spielstands.
-
-Die Mod ist für die PC-Version von Farming Simulator 25 gedacht. Multiplayer-Unterstützung ist im Mod deklariert, wurde für diese Version jedoch noch nicht gesondert praktisch verifiziert.
-
-**Smart Storage Hub – Deine Lager. Deine Bestände. Deine Entscheidung.**
+[English](#english) · [Deutsch](#deutsch) · [Download / Releases](https://github.com/Elimods90/FS25_SmartStorageHub/releases)
 
 ---
 
 ## English
+
+![Smart Storage Hub – English promotional banner](images/banner-en.png)
+
+<div align="center">
+
+**More overview. More control. Less effort.**
+
+</div>
 
 Smart Storage Hub enhances storage management in Farming Simulator 25 with a modern, easy-to-read interface and practical tools for managing stored goods.
 
@@ -111,13 +61,68 @@ This mod targets the PC version of Farming Simulator 25. Multiplayer support is 
 
 ---
 
+## Deutsch
+
+![Smart Storage Hub – Deutsches Titelbild](images/banner.png)
+
+<div align="center">
+
+**Mehr Übersicht. Mehr Kontrolle. Weniger Aufwand.**
+
+</div>
+
+Smart Storage Hub erweitert die Lagerverwaltung im Landwirtschafts-Simulator 25 um eine moderne, übersichtliche Benutzeroberfläche und praktische Funktionen zur gezielten Ein- und Auslagerung.
+
+Ob Getreidesilo, Palettenlager oder Ballenlager: Mit Smart Storage Hub behältst du deine Bestände im Blick und entscheidest selbst, welche Waren du in welcher Menge entnehmen möchtest.
+
+### Intelligente Siloverwaltung
+
+Alle verfügbaren Fruchtsorten werden mit ihren aktuellen Lagerbeständen und passenden Symbolen übersichtlich dargestellt. Wähle die gewünschte Fruchtsorte aus und starte die Beladung. Optional kannst du eine genaue Literzahl vorgeben. Bleibt das Eingabefeld leer, wird dein Anhänger wie gewohnt befüllt.
+
+Eine zusätzliche Live-Anzeige informiert während des Be- und Entladens über aktuelle Bestände beziehungsweise verbleibende Silokapazität. Farblich gekennzeichnete Werte erleichtern die Orientierung.
+
+![Siloverwaltung mit rechtsbündigen Lagerbeständen](images/silo-overview.png)
+
+### Paletten- und Ballenlager im Überblick
+
+Smart Storage Hub zeigt die eingelagerten Paletten- und Ballenarten mit ihren jeweiligen Stückzahlen. Über die Mengenauswahl bestimmst du, wie viele Objekte ausgelagert werden – **bis zu 25 pro Vorgang**. Die Stückzahlen aktualisieren sich auch bei geöffnetem Auswahlmenü.
+
+![Übersicht über Paletten und Ballen](images/storage-overview.png)
+
+### Komfortable Bedienung aus der Fahrerkabine
+
+Mit einem geeigneten, stehenden Transportfahrzeug kannst du in der Nähe eines Paletten- oder Ballenlagers die Lagerauswahl **direkt aus der Fahrerkabine** öffnen. Aussteigen ist nicht erforderlich.
+
+**Wichtig:** Die ausgewählten Objekte erscheinen am regulären Ausgabepunkt des Lagers. Sie werden **nicht automatisch auf dein Fahrzeug geladen**.
+
+### Weitere Funktionen
+
+- Gezielte Liter-Eingabe oder normale vollständige Befüllung am Silo.
+- Laufende Bestandsanzeige während der Silo-Bedienung.
+- Rechtsbündig ausgerichtete Mengen- und Stückzahlangaben für bessere Lesbarkeit.
+- Objektauswahl und Auslagerung in Schritten von bis zu 25 Stück.
+- Bedienung nahe geeigneter Lager direkt vom Fahrersitz aus.
+- Integration in die vorhandenen LS25-Lagerfunktionen.
+
+### Installation
+
+1. Lade `FS25_SmartStorageHub.zip` aus den [Releases](https://github.com/Elimods90/FS25_SmartStorageHub/releases) herunter, sobald die Version veröffentlicht ist.
+2. Kopiere die **ZIP unverändert** in deinen LS25-Ordner `mods`.
+3. Aktiviere **Smart Storage Hub** beim Laden deines Spielstands.
+
+Die Mod ist für die PC-Version von Farming Simulator 25 gedacht. Multiplayer-Unterstützung ist im Mod deklariert, wurde für diese Version jedoch noch nicht gesondert praktisch verifiziert.
+
+**Smart Storage Hub – Deine Lager. Deine Bestände. Deine Entscheidung.**
+
+---
+
 ## Additional screenshots / Weitere Screenshots
 
-**Live silo HUD / Live-Siloanzeige**
+### Live silo HUD / Live-Siloanzeige
 
 ![Silo HUD](images/silo-hud.png)
 
-**Pallet and bale quantity selection / Mengenauswahl für Paletten und Ballen**
+### Pallet and bale quantity selection / Mengenauswahl für Paletten und Ballen
 
 ![Quantity selector](images/quantity-selector.png)
 
@@ -125,6 +130,6 @@ This mod targets the PC version of Farming Simulator 25. Multiplayer support is 
 
 <div align="center">
 
-<sub>Smart Storage Hub · Farming Simulator 25 · v0.9.14.41</sub>
+<sub>Smart Storage Hub · Farming Simulator 25 · v1.0.0</sub>
 
 </div>
